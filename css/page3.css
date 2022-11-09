@@ -1,0 +1,100 @@
+html {
+  background-color: #fff;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg {
+  width: 1440px;
+  height: auto;
+  background-color: #fff;
+}
+
+.head{
+	display:flex;
+}
+.headerintro{
+	width:1140px;
+	height:65px;
+	padding-top:35px;
+	padding-left:197px;
+	background-color:#5AA4AE;
+}
+.text_intro1{
+	width: 72px;
+	height: 29px;
+	font-size:24px;
+	color:#FFFFFF;
+	margin-right:30px;
+	text-decoration:none;
+}
+.text_intro2{
+	width: 96px;
+	height: 29px;
+	font-size:24px;
+	color:#FFFFFF;
+	margin-right:30px;
+	text-decoration:none;
+}
+.text_intro3{
+	width: 72px;
+	height: 33px;
+	font-size:24px;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+  
+  .LoginBg{
+    width: 700px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    background-color: #5AA4AE;
+    border-radius: 30px;
+  }
+
+  .LoginWord{
+    margin: 0%;
+    display: flex;
+    font-size: 40px;
+    color: #FFFFFF;
+    padding-top: 130px;
+    justify-content: center;
+  }
+
+  .Rectangle{
+    width: 500px;
+    height: 60px;
+    background-color: #E5E5E5;
+    border-radius: 30px;
+    margin-bottom: 30px;
+  }
+
+  .RectangleBottom{
+    width: 500px;
+    height: 60px;
+    background-color: #E5E5E5;
+    border-radius: 30px;
+  }
+
+  .HintWord{
+    margin: 0%;
+    display: flex;
+    font-size: 24px;
+    color: #8F8F8F;
+    padding-top: 15px;
+    padding-left: 30px;
+  }
+
+  .InputPlace{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 130px;
+  }
